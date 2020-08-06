@@ -1,1 +1,12 @@
 size(600,600);
+fill (255, 0, 0, 100);
+ellipse (200, 200, 200, 200);
+fill (0, 255, 0, 100);
+ellipse (350, 200, 200, 200);
+fill (0, 0, 255, 100);
+ellipse (275, 330, 200, 200);
+fill (0);
+textSize (38);
+text ("Soccer", 150, 150);
+text ("Family", 300, 150);
+text ("Games", 235, 310);
